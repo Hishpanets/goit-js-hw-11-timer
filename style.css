@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+}
+
+#timer-1 {
+  background-color: azure;
+  margin-top: 100px;
+  background-color: rgb(85, 99, 9);
+  display: inline-block;
+  padding: 15px;
+  border: 3px solid rgb(20, 20, 20);
+  border-radius: 50px;
+}
+
+.field {
+  display: inline-block;
+  margin: 10px;
+  border: 6px solid rgb(48, 228, 138);
+  border-radius: 70px;
+  padding: 10px;
+}
+
+.value {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 50px;
+  color: rgb(3, 230, 238);
+  padding: 5px;
+}
+
+.label {
+  display: block;
+  padding: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  color: rgb(3, 230, 238);
+}
